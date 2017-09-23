@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email">email</string>
+    <string name="pas">password</string>
+    <string name="signin">sign in</string>
+    <string name="signup">sign up</string>
+    <string name="ask">Dont have an account? </string>
+    <string name="ask2">Do have an account? </string>
+    <string name="FN">first name</string>
+    <string name="LN">last name</string>
+    <string name="age">age</string>
+    <string name="gender">gender</string>
+    <string name="FM">female</string>
+    <string name="MA">male</string>
+    <string name="edit">edit</string>
+    <string name="signout">sign out</string>
+    <string name="done">done</string>
+    <string name="cancel">cancel</string>
+</resources>
